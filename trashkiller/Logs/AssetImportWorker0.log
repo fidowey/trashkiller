@@ -1,0 +1,206 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19041.867; Version 2004; 64bit' Language: 'es' Physical Memory: 8072 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/marce/ProyectosUnity/trashkiller/trashkiller
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50725
+Successfully changed project path to: C:/Users/marce/ProyectosUnity/trashkiller/trashkiller
+C:/Users/marce/ProyectosUnity/trashkiller/trashkiller
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 87.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/marce/ProyectosUnity/trashkiller/trashkiller/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX110 (ID=0x174e)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   26.21.14.4287
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56416
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007262 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 73.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.599 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 81.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.106 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.7 MB.
+System memory in use after: 84.7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 3.421700 ms (FindLiveObjects: 0.475400 ms CreateObjectMapping: 0.172000 ms MarkObjects: 2.582400 ms  DeleteObjects: 0.190500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SpeedTutor_Full_Menu_System/Textures/M_Tileable_Walls.mat
+  artifactKey: Guid(e3afd3f13bed53c448eaa979f23dbcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/Textures/M_Tileable_Walls.mat using Guid(e3afd3f13bed53c448eaa979f23dbcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f615c8066d7a0c5fe6604dd398ed067') in 1.289845 seconds
+  Import took 1.297151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/Textures/Gray_Tileable_Demo_Texture.png
+  artifactKey: Guid(3222a9c550eb588429237a20c31d4a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/Textures/Gray_Tileable_Demo_Texture.png using Guid(3222a9c550eb588429237a20c31d4a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae1297169682cd3f0e10b5143eaef7d') in 0.984795 seconds
+  Import took 0.993239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/Prefabs/Load_Preferences.prefab
+  artifactKey: Guid(cc18238686906234bb678b403db8d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/Prefabs/Load_Preferences.prefab using Guid(cc18238686906234bb678b403db8d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f52e4c9e8ee8873b61489f81ee8cde') in 0.084232 seconds
+  Import took 0.092743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/Sounds/UI Click Metallic (mono).wav
+  artifactKey: Guid(92a72a8e238077443b81306bfdb7d3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/Sounds/UI Click Metallic (mono).wav using Guid(92a72a8e238077443b81306bfdb7d3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92684f150ec6a63dea9b3d733cc3a5e9') in 0.964178 seconds
+  Import took 0.972809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000537 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/Scenes/MainMenu.unity
+  artifactKey: Guid(e84c9862265a1104a9d724503d4111aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/Scenes/MainMenu.unity using Guid(e84c9862265a1104a9d724503d4111aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907be0f89128a87626de31c4520b4316') in 0.020851 seconds
+  Import took 0.028917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/Prefabs/UIController.prefab
+  artifactKey: Guid(ed022c6eaaa372f498c83d69665e2adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/Prefabs/UIController.prefab using Guid(ed022c6eaaa372f498c83d69665e2adc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf420690882b08167dd9e49bc1d03ce4') in 0.123062 seconds
+  Import took 0.133480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/Textures/M_Tileable_Cube.mat
+  artifactKey: Guid(ec8cc910d2d8dbd4ea0b4cecdf397a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/Textures/M_Tileable_Cube.mat using Guid(ec8cc910d2d8dbd4ea0b4cecdf397a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e25a653f0dd7bed8b7977ebb58bc3188') in 0.053497 seconds
+  Import took 0.063258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 237.900101 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Esc_Key_Icon_512.png
+  artifactKey: Guid(8b30308bf8acc1146a81884c99b1a899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Esc_Key_Icon_512.png using Guid(8b30308bf8acc1146a81884c99b1a899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad82cf47f769d81de792de5292d521f') in 0.060007 seconds
+  Import took 0.065869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/UI_Base_Controls.png
+  artifactKey: Guid(d7ab24ae9adf65b408296134bbf9ee29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/UI_Base_Controls.png using Guid(d7ab24ae9adf65b408296134bbf9ee29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e686825a5f85eb30429535d7bca088') in 0.036314 seconds
+  Import took 0.039703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Mouse_Pointer_Icon_512.png
+  artifactKey: Guid(994405abee388e146a6dc2dce1421c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Mouse_Pointer_Icon_512.png using Guid(994405abee388e146a6dc2dce1421c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8acd87874b48d66a5a576b43f3105b8') in 0.028553 seconds
+  Import took 0.032086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Logo Glow.png
+  artifactKey: Guid(cf0c440ce5cd1de41bf566ca19621289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Logo Glow.png using Guid(cf0c440ce5cd1de41bf566ca19621289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68355ab202ed30a22ec2a9ece88b49ae') in 0.048485 seconds
+  Import took 0.051900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Esc_Key_Icon_512.png
+  artifactKey: Guid(8b30308bf8acc1146a81884c99b1a899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Esc_Key_Icon_512.png using Guid(8b30308bf8acc1146a81884c99b1a899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad82cf47f769d81de792de5292d521f') in 0.016092 seconds
+  Import took 0.020275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Logo Glow.png
+  artifactKey: Guid(cf0c440ce5cd1de41bf566ca19621289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Icons/Logo Glow.png using Guid(cf0c440ce5cd1de41bf566ca19621289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68355ab202ed30a22ec2a9ece88b49ae') in 0.027154 seconds
+  Import took 0.031749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.021021 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Backgrounds/UI_Long_Strip_Decay.psd
+  artifactKey: Guid(daa11c4ce0b46f447a3109028e38e65f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Backgrounds/UI_Long_Strip_Decay.psd using Guid(daa11c4ce0b46f447a3109028e38e65f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3265add545a7d27415dae33871454d38') in 0.029276 seconds
+  Import took 0.034622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Backgrounds/UI_PaintDecayed.psd
+  artifactKey: Guid(98aec1d5bcbe3c449bedefa37184f4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Backgrounds/UI_PaintDecayed.psd using Guid(98aec1d5bcbe3c449bedefa37184f4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ee50b3402cc67b5327d63a74db1071') in 0.046575 seconds
+  Import took 0.052168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Backgrounds/UI_Main_BG.jpg
+  artifactKey: Guid(98ec80c8fbb2bf648a138d5a2b853755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeedTutor_Full_Menu_System/GUI Elements/UI_Backgrounds/UI_Main_BG.jpg using Guid(98ec80c8fbb2bf648a138d5a2b853755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6773741747c786662f8bc8fcf2673b52') in 0.048290 seconds
+  Import took 0.054143 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
