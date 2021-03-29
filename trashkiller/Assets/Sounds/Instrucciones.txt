@@ -1,0 +1,1 @@
+En este directorio deben ir la banda sonora , efectos de sonido , etc ... Todo lo relacionado a los sonidos del game
